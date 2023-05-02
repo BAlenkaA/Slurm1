@@ -9,3 +9,7 @@ def umn(a, b):
 
 def cdel(a, b):
     return a // b
+
+def cdel(a, b):
+    return a // b
+
