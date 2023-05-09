@@ -1,4 +1,4 @@
-import my_func
+import my_fu
 import choice
 
 x, y = choice.numbers()
